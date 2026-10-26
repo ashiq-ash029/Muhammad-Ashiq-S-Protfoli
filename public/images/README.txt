@@ -1,0 +1,1 @@
+Place real edited portraits here: ashiq-hero.webp and ashiq-about.webp. Optional: skills-3d.webp. Missing portraits are handled with an on-page placeholder.
